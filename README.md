@@ -42,7 +42,7 @@
 
 * 可以在 [issues](https://github.com/examfucker/examfucker.github.io/issues) 中提出问题
 * 可以发邮件给项目维护团队examfucker（[nefu_zystaion@163.com](mailto:nefu_zystaion@163.com)）
-* 可以通过QQ联系项目维护团队群组 685936329 [直达](http://)
+* 可以通过QQ联系项目维护团队群组 685936329 [直达](http://.com)
 
 ### 上传课件/笔记
 
